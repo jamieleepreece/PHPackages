@@ -1,2 +1,2 @@
 # PHPackages
-Helpful classes for php based operations. 
+Helpful classes for php based operations.
